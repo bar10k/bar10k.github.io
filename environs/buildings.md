@@ -2,5 +2,5 @@
 
 ## Maps and plans
 
-* Clubhouse (Café/Bar)
-* Sewer / land
+* [Clubhouse (Café/Bar)](/clubhouse_blueprint.jpg)
+* [Sewer / land](./sewerplan.jpg)
