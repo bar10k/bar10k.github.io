@@ -1,15 +1,13 @@
-# Project notes - ``Bar 10K``
+# Concept
 
-## Concept
+## Colour scheme
 
-### Colour scheme
+## Food & drink
 
-### Food & drink
+# Environs & external structures
 
-## Environs & external structures
+# Internal structures
 
-## Internal structures
-
-### Kitchen/Bar equipment
+## Kitchen/Bar equipment
 
 
