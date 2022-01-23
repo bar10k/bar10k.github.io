@@ -2,5 +2,5 @@
 
 Project Notes
 
-Available at [bar10k.github.io][https://bar10k.github.io].
+Available at [https://bar10k.github.io].
 
