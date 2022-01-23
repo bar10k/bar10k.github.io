@@ -10,7 +10,7 @@
 
 [Details](./environs/)
 
-## [Buildings](./environs/buildings/)
+## [Buildings](./environs/buildings)
 
 ## Garden
 
