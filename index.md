@@ -1,8 +1,15 @@
 # Project Notes - ``Bar 10K``
 
-## Building
+## Concept
+
+### Colour scheme
 
 ## Food & Drink
 
-## Colour scheme
+## Environs & external structures
+
+## Internal
+
+### Equipment
+
 
