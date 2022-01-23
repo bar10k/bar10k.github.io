@@ -1,12 +1,16 @@
 # Concept
 
+[Details](./concept/)
+
 ## Colour scheme
 
 ## Food & drink
 
 # Environs & external structures
 
-## Buildings
+[Details](./environs/)
+
+## [Buildings](./environs/buildings/)
 
 ## Garden
 
