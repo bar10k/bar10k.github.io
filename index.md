@@ -1,6 +1,7 @@
 ---
-title: Home
-page_title: Home
+layout: default
+title: HOME
+
 ---
 
 # HOME
