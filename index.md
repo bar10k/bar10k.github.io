@@ -12,11 +12,11 @@ nav_order: 1
 
 ### Food & drink
 
-## [Environs & external structures](./environs/)
+## [Environs](./environs/)
 
 ### [Buildings](./environs/buildings)
 
-### [Garden](./garden/)
+### [Garden](./environs/garden/)
 
 ## Internal structures
 

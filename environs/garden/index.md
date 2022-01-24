@@ -1,3 +1,9 @@
+---
+title: Garden
+parent: Environs
+nav_order: 3
+---
+
 # Garden
 
 ## Life size fibreglass cow
