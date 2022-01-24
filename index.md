@@ -1,23 +1,30 @@
-# Concept
+---
+title: Home
+page_title: Home
+---
+
+# HOME
+
+## Concept
 
 [Details](./concept/)
 
-## Colour scheme
+### Colour scheme
 
-## Food & drink
+### Food & drink
 
-# Environs & external structures
+## Environs & external structures
 
 [Details](./environs/)
 
-## [Buildings](./environs/buildings)
+### [Buildings](./environs/buildings)
 
-## Garden
+### Garden
 
 [Details](./garden/)
 
-# Internal structures
+## Internal structures
 
-## Kitchen/Bar equipment
+### Kitchen/Bar equipment
 
 
