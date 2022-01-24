@@ -1,27 +1,22 @@
 ---
 title: HOME
+nav_order: 1
 ---
 
 
 # HOME
 
-## Concept
-
-[Details](./concept/)
+## [Concept](./concept/)
 
 ### Colour scheme
 
 ### Food & drink
 
-## Environs & external structures
-
-[Details](./environs/)
+## [Environs & external structures](./environs/)
 
 ### [Buildings](./environs/buildings)
 
-### Garden
-
-[Details](./garden/)
+### [Garden](./garden/)
 
 ## Internal structures
 
