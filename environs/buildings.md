@@ -1,6 +1,7 @@
 ---
 title: Buildings
 parent: Environs & external structures
+nav_order: 3
 ---
 
 # Buildings
