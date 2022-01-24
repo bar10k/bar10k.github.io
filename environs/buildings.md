@@ -1,3 +1,8 @@
+---
+title: Buildings
+parent: Environs & external structures
+---
+
 # Buildings
 
 ## Maps and plans
