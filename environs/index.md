@@ -1,5 +1,5 @@
 ---
-title: Environs and external structures
+title: Environs & external structures
 nav_order: 3
 ---
 
